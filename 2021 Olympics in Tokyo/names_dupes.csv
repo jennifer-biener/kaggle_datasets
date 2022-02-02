@@ -1,31 +1,47 @@
-,Name,NOC,Parent_Discipline
-319,ALVAREZ Jorge,Cuba,Shooting
-320,ALVAREZ Jorge,Honduras,Football
-1703,CHEN Yang,People's Republic of China,Athletics
-1704,CHEN Yang,People's Republic of China,Hockey
-3664,HALL James,Great Britain,Gymnastics
-3665,HALL James,United States of America,Shooting
-4829,KIM Hyunsoo,Republic of Korea,Baseball/Softball
-4830,KIM Hyunsoo,Republic of Korea,Rugby Sevens
-5106,KOVACS Zsofia,Hungary,Gymnastics
-5107,KOVACS Zsofia,Hungary,Triathlon
-5219,KURBANOV Ruslan,Kazakhstan,Fencing
-5220,KURBANOV Ruslan,Uzbekistan,Athletics
-5522,LI Qian,People's Republic of China,Boxing
-5523,LI Qian,Poland,Table Tennis
-6044,MARTIN Daniel,Ireland,Cycling
-6045,MARTIN Daniel,Romania,Swimming
-7594,PEREZ Maria,Puerto Rico,Judo
-7595,PEREZ Maria,Spain,Athletics
-7601,PEREZ Paola,Ecuador,Athletics
-7602,PEREZ Paola,Venezuela,Swimming
-7834,PORTELA Teresa,Portugal,Canoeing
-7835,PORTELA Teresa,Spain,Canoeing
-9411,SUN Jiajun,People's Republic of China,Cycling
-9412,SUN Jiajun,People's Republic of China,Swimming
-10419,WANG Yang,People's Republic of China,Sailing
-10420,WANG Yang,Slovakia,Table Tennis
-10457,WATANABE Yuta,Japan,Badminton
-10458,WATANABE Yuta,Japan,Basketball
-11016,ZHANG Xin,People's Republic of China,Football
-11017,ZHANG Xin,People's Republic of China,Skateboarding
+,Name,NOC,Discipline,Parent_Discipline
+253,ALI Mohamed,Bahrain,Handball,Handball
+254,ALI Mohamed,Bahrain,Handball,Handball
+319,ALVAREZ Jorge,Cuba,Shooting,Shooting
+320,ALVAREZ Jorge,Honduras,Football,Football
+1703,CHEN Yang,People's Republic of China,Athletics,Athletics
+1704,CHEN Yang,People's Republic of China,Hockey,Hockey
+2551,DYGERT Chloe,United States of America,Cycling Road,Cycling
+2552,DYGERT Chloe,United States of America,Cycling Track,Cycling
+3128,GANNA Filippo,Italy,Cycling Road,Cycling
+3129,GANNA Filippo,Italy,Cycling Track,Cycling
+3664,HALL James,Great Britain,Artistic Gymnastics,Gymnastics
+3665,HALL James,United States of America,Shooting,Shooting
+3796,HAVIK Yoeri,Netherlands,Cycling Road,Cycling
+3797,HAVIK Yoeri,Netherlands,Cycling Track,Cycling
+4829,KIM Hyunsoo,Republic of Korea,Baseball/Softball,Baseball/Softball
+4830,KIM Hyunsoo,Republic of Korea,Rugby Sevens,Rugby Sevens
+5061,KOPECKY Lotte,Belgium,Cycling Road,Cycling
+5062,KOPECKY Lotte,Belgium,Cycling Track,Cycling
+5106,KOVACS Zsofia,Hungary,Artistic Gymnastics,Gymnastics
+5107,KOVACS Zsofia,Hungary,Triathlon,Triathlon
+5219,KURBANOV Ruslan,Kazakhstan,Fencing,Fencing
+5220,KURBANOV Ruslan,Uzbekistan,Athletics,Athletics
+5522,LI Qian,People's Republic of China,Boxing,Boxing
+5523,LI Qian,Poland,Table Tennis,Table Tennis
+6044,MARTIN Daniel,Ireland,Cycling Road,Cycling
+6045,MARTIN Daniel,Romania,Swimming,Swimming
+7395,PALTRINIERI Gregorio,Italy,Marathon Swimming,Swimming
+7396,PALTRINIERI Gregorio,Italy,Swimming,Swimming
+7594,PEREZ Maria,Puerto Rico,Judo,Judo
+7595,PEREZ Maria,Spain,Athletics,Athletics
+7601,PEREZ Paola,Ecuador,Athletics,Athletics
+7602,PEREZ Paola,Venezuela,Marathon Swimming,Swimming
+7834,PORTELA Teresa,Portugal,Canoe Sprint,Canoeing
+7835,PORTELA Teresa,Spain,Canoe Sprint,Canoeing
+9411,SUN Jiajun,People's Republic of China,Cycling Road,Cycling
+9412,SUN Jiajun,People's Republic of China,Swimming,Swimming
+10111,van ROUWENDAAL Sharon,Netherlands,Marathon Swimming,Swimming
+10112,van ROUWENDAAL Sharon,Netherlands,Swimming,Swimming
+10419,WANG Yang,People's Republic of China,Sailing,Sailing
+10420,WANG Yang,Slovakia,Table Tennis,Table Tennis
+10457,WATANABE Yuta,Japan,Badminton,Badminton
+10458,WATANABE Yuta,Japan,Basketball,Basketball
+10505,WELLBROCK Florian,Germany,Marathon Swimming,Swimming
+10506,WELLBROCK Florian,Germany,Swimming,Swimming
+11016,ZHANG Xin,People's Republic of China,Football,Football
+11017,ZHANG Xin,People's Republic of China,Skateboarding,Skateboarding
